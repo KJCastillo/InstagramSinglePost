@@ -1,0 +1,62 @@
+body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.main{
+    width: 400px;
+    height: 500px;
+    background: white;
+}
+
+.bottomText {
+    display: inline-block;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+li {
+    float: left;
+  }
+
+
+.landscape img {
+    width: 100%;
+}
+
+.iconOne {
+    padding-right: 5px;
+}
+
+.header {
+    height: 70px;
+    width: 100%;
+}
+.header-left, .header-right{
+    width: 10%;
+}
+.header-title{
+    width: 80%;
+    float: left;
+    
+}
+.header-title p{
+    margin: 0;
+}
+.header-left{
+    float: left;
+}
+.header-right{
+    float: right;
+}
+
+div .header {
+    height: 10px;
+}
